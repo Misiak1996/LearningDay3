@@ -10,6 +10,10 @@ namespace LearningDay3
     {
         static void Main(string[] args)
         {
+            Person p1 = new Person("Łukasz", "Misiak");
+            Person p2 = new Person("Natalia", "Misiak", "Łódz", 1);
+            Person p3 = new Person();
+
         }
     }
 }
